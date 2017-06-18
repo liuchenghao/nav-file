@@ -1,0 +1,28 @@
+{
+  "name": "nav-file",
+  "version": "1.0.0",
+  "description": "scan file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "nf": "navfile.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuchenghao/nav-file.git"
+  },
+  "keywords": [
+    "file",
+    "nav",
+    "map",
+    "scan"
+  ],
+  "author": "liuchenghao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuchenghao/nav-file/issues"
+  },
+  "homepage": "https://github.com/liuchenghao/nav-file#readme"
+}
